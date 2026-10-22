@@ -28,3 +28,4 @@ serve_spa.py
 
 # Freebuff workspace agent files (run docs, logs, tooling)
 .freebuff/
+.vercel
